@@ -1,0 +1,30 @@
+C:\Users\André Canh\source\repos\CalculadoIphone\CalculadoIphone\bin\Debug\CalculadoIphone.exe.config
+C:\Users\André Canh\source\repos\CalculadoIphone\CalculadoIphone\bin\Debug\CalculadoIphone.exe
+C:\Users\André Canh\source\repos\CalculadoIphone\CalculadoIphone\bin\Debug\CalculadoIphone.pdb
+C:\Users\André Canh\source\repos\CalculadoIphone\CalculadoIphone\obj\Debug\CalculadoIphone.csprojAssemblyReference.cache
+C:\Users\André Canh\source\repos\CalculadoIphone\CalculadoIphone\obj\Debug\CalculadoIphone.Calculadora.resources
+C:\Users\André Canh\source\repos\CalculadoIphone\CalculadoIphone\obj\Debug\CalculadoIphone.Properties.Resources.resources
+C:\Users\André Canh\source\repos\CalculadoIphone\CalculadoIphone\obj\Debug\CalculadoIphone.csproj.GenerateResource.cache
+C:\Users\André Canh\source\repos\CalculadoIphone\CalculadoIphone\obj\Debug\CalculadoIphone.csproj.CoreCompileInputs.cache
+C:\Users\André Canh\source\repos\CalculadoIphone\CalculadoIphone\obj\Debug\CalculadoIphone.exe
+C:\Users\André Canh\source\repos\CalculadoIphone\CalculadoIphone\obj\Debug\CalculadoIphone.pdb
+C:\Users\André Canh\Documents\Projetos VS C#\CalculadoIphone\CalculadoIphone\bin\Debug\CalculadoIphone.exe.config
+C:\Users\André Canh\Documents\Projetos VS C#\CalculadoIphone\CalculadoIphone\bin\Debug\CalculadoIphone.exe
+C:\Users\André Canh\Documents\Projetos VS C#\CalculadoIphone\CalculadoIphone\bin\Debug\CalculadoIphone.pdb
+C:\Users\André Canh\Documents\Projetos VS C#\CalculadoIphone\CalculadoIphone\obj\Debug\CalculadoIphone.csprojAssemblyReference.cache
+C:\Users\André Canh\Documents\Projetos VS C#\CalculadoIphone\CalculadoIphone\obj\Debug\CalculadoIphone.Calculadora.resources
+C:\Users\André Canh\Documents\Projetos VS C#\CalculadoIphone\CalculadoIphone\obj\Debug\CalculadoIphone.Properties.Resources.resources
+C:\Users\André Canh\Documents\Projetos VS C#\CalculadoIphone\CalculadoIphone\obj\Debug\CalculadoIphone.csproj.GenerateResource.cache
+C:\Users\André Canh\Documents\Projetos VS C#\CalculadoIphone\CalculadoIphone\obj\Debug\CalculadoIphone.csproj.CoreCompileInputs.cache
+C:\Users\André Canh\Documents\Projetos VS C#\CalculadoIphone\CalculadoIphone\obj\Debug\CalculadoIphone.exe
+C:\Users\André Canh\Documents\Projetos VS C#\CalculadoIphone\CalculadoIphone\obj\Debug\CalculadoIphone.pdb
+C:\Users\André Canh\Documents\Projetos VS C#\Calculadora\CalculadoIphone\bin\Debug\CalculadoIphone.exe.config
+C:\Users\André Canh\Documents\Projetos VS C#\Calculadora\CalculadoIphone\bin\Debug\CalculadoIphone.exe
+C:\Users\André Canh\Documents\Projetos VS C#\Calculadora\CalculadoIphone\bin\Debug\CalculadoIphone.pdb
+C:\Users\André Canh\Documents\Projetos VS C#\Calculadora\CalculadoIphone\obj\Debug\CalculadoIphone.csprojAssemblyReference.cache
+C:\Users\André Canh\Documents\Projetos VS C#\Calculadora\CalculadoIphone\obj\Debug\CalculadoIphone.Calculadora.resources
+C:\Users\André Canh\Documents\Projetos VS C#\Calculadora\CalculadoIphone\obj\Debug\CalculadoIphone.Properties.Resources.resources
+C:\Users\André Canh\Documents\Projetos VS C#\Calculadora\CalculadoIphone\obj\Debug\CalculadoIphone.csproj.GenerateResource.cache
+C:\Users\André Canh\Documents\Projetos VS C#\Calculadora\CalculadoIphone\obj\Debug\CalculadoIphone.csproj.CoreCompileInputs.cache
+C:\Users\André Canh\Documents\Projetos VS C#\Calculadora\CalculadoIphone\obj\Debug\CalculadoIphone.exe
+C:\Users\André Canh\Documents\Projetos VS C#\Calculadora\CalculadoIphone\obj\Debug\CalculadoIphone.pdb
